@@ -67,6 +67,8 @@ Lista de hipóteses:
 * H6 Os clientes fazem mais compras no período diurno
 * H7 O Supercentro A é o mais lucrativo
 * H8 Janeiro foi o mês com o maior número de vendas
+* H9 Clientes membros gastam mais que clientes normais
+* H10 Uma mesma linha de produtos é campeã de vendas em todas as cidades
 
 # Top Insights
 ### **H1 O Supercentro A possui o maior número de vendas.** 
