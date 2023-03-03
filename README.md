@@ -9,6 +9,11 @@ O crescimento dos supermercados nas cidades mais populosas está aumentando e as
 
 O gerente dessas 3 filiais do supermercado está sem nenhuma visão das vendas dessas filiais, e pediu ajuda ao time de BI da Saga Solutions para conseguir ter clareza dos principais KPIs dessas filiais e acompanhar a evolução de cada uma delas.
  
+# DashBoard
+
+O Dashboard feito no Power BI pode ser acessado aqui [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWY5MDYzODMtYWNjMi00N2QyLTkzZmItNTM0YzU4OTgwNjk0IiwidCI6ImQ0MTkwOTZiLTAzODItNGM3Mi1iYTAyLTgyMTUyYWM2ODY2NiJ9) 
+
+O Notebook com os códigos da análise em python podem ser acessador aqui: [Notebook](https://github.com/danilofneto/Saga_Solutions/blob/main/notebooks/c01-dfn-SagaSolutions.ipynb) 
 
   # Os Dados
 
